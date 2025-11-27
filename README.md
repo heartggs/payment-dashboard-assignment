@@ -1,4 +1,4 @@
-# 결제/가맹점 대시보드 (Brunch Payments 과제 전형)
+# 결제/가맹점 대시보드
 
 Brunch Payments 채용 전형 과제로 구현한 **PG 결제/가맹점 대시보드**입니다.  
 제공된 채용 전용 API(`https://recruit.paysbypays.com/api/v1`)를 사용하여  
